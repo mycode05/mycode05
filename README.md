@@ -21,5 +21,5 @@ I'm a passionate developer working with **Java**, **Python**, and **JavaScript**
 - [LinkedIn](www.linkedin.com/in/sai-jyotsna-ruthala05)
 
 ## 🎮 Fun Fact:
-When I’m not coding, I enjoy hiking and playing video games!
+When I’m not coding, I enjoy listenig music and sleep!
 
