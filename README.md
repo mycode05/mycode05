@@ -4,7 +4,7 @@ I'm a passionate developer working with **Java**, **Python**, and **JavaScript**
 
 ## 🚀 Current Projects
 - **Skill Match**: A job portal where students can find relevant job opportunities.
-- [Check out the repository here](https://github.com/your-username/jstack).(i will upload it after april 2025)
+- [Check out the repository here](https://github.com/mycode05/SkillMatch).
 
 ## 🛠️ Technologies & Tools
 - Python
